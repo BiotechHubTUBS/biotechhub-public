@@ -14,6 +14,8 @@ The platform is operated as a student project and is not an official university 
 
 - **Study resources:** A web-based portal for accessing learning materials.
 - **File services:** A Nextcloud-based service supporting the platform's file management.
+- **Laboratory recipe calculator:** Calculate ingredients for laboratory solutions and media, including solids, liquids and stock solutions. Scale recipes to different final volumes and save local drafts.
+- **Public recipe library:** Submit recipes for administrative review, browse approved recipes and load them back into the calculator. Submitted recipes are not publicly visible until approved.
 - **Continuity:** Documentation and a maintainable technical setup intended to make it easier for future student volunteers to keep the project running.
 
 Access to specific materials or functions may depend on the respective permissions.
